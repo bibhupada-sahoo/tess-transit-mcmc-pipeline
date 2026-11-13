@@ -1,1 +1,6 @@
-
+numpy
+scipy
+matplotlib
+lightkurve
+emcee
+corner
